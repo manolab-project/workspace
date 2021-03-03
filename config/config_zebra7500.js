@@ -28,9 +28,9 @@ function setup()
     {
         name: "nfc_reader",
         type: "Zebra7500",
-        conn_channel: "10.0.0.14",
+        conn_channel: "10.0.0.20",
         conn_settings: "",
-        id: "",
+        id: "", 
         options: ""
     }
     ]};
